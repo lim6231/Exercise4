@@ -34,7 +34,7 @@ class MainActivity : AppCompatActivity() {
             )
             dpd.show()
         }
-    }
+    }//
     fun getBasic():Int{
         return when(Integer.valueOf(txtAge.getText().toString())){
 
